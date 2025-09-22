@@ -26,7 +26,7 @@ This repo contains SQL schema & transformation scripts, a set of analytic SQL qu
 ├─ requirements.txt               # Python deps (pandas, sqlalchemy, psycopg2-binary, python-dotenv, ...)
 └─ README.md                      # this file
 ```
-
+https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download 
 **Note:** `data/steam.csv` is *not* included in the repo (Kaggle dataset license / size). Download it and place it at `data/steam.csv` before running the ingestion step.
 
 ---
@@ -39,6 +39,7 @@ This repo contains SQL schema & transformation scripts, a set of analytic SQL qu
 * Git (for pushing to GitHub)
 
 ---
+<img width="1062" height="460" alt="Снимок экрана 2025-09-21 133234" src="https://github.com/user-attachments/assets/8b4d2333-095a-45cd-b6f2-8a67a75255e3" />
 
 ## Quickstart — local setup
 
