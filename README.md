@@ -3,7 +3,7 @@
 **QuickPlay Analytics** — analytics project on Steam games (games, developers, publishers, genres, platforms).
 This repo contains SQL schema & transformation scripts, a set of analytic SQL queries, a small Python script to run those queries and export results, and a synthetic-data generator.
 
-> **Important** — I attempted to set up Apache Superset (for dashboards) during the work, but hit environment / dependency issues (missing `flask_cors`, `marshmallow_enum`, and an incompatibility with `marshmallow` that caused Alembic migrations to fail). To finish the assignment reliably I skipped the Superset dashboard part and delivered everything using PostgreSQL (pgAdmin/psql) + Python only. If you want to attempt Superset later, see the *Troubleshooting* section at the end of this README.
+> **Important** — I attempted to set up Apache Superset (for dashboards) during the work, but hit environment / dependency issues (missing `flask_cors`, `marshmallow_enum`, and an incompatibility with `marshmallow` that caused Alembic migrations to fail). To finish the assignment reliably I skipped the Superset dashboard part and delivered everything using PostgreSQL (pgAdmin/psql) + Python only.
 
 ---
 
