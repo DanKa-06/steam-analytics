@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+
+# Virtual environment
+venv/
+
+# Data (не храним большие CSV, только schema.sql и queries.sql)
+data/*.csv
+!data/steam.csv   # если хочешь оставить только основной датасет
+
+# Outputs (Excel, PNG, CSV)
+data/outputs/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
