@@ -117,23 +117,29 @@ Dataset: [Steam Store Games on Kaggle](https://www.kaggle.com/datasets/nikdavis/
 
 The script `analytics_plots.py` generates **6 charts** in `output/`:
 
-1. **Revenue by year**
-   ![Revenue by Year](output/revenue_by_year.png)
+ **Revenue by year**
+   ![Revenue by Year]
+   <img width="1000" height="500" alt="revenue_by_year" src="https://github.com/user-attachments/assets/b8063170-aae7-490b-b667-06744b678b87" />
 
-2. **Average playtime by genre**
-   ![Average Playtime by Genre](output/avg_playtime_by_genre.png)
+ **Average playtime by genre**
+   ![Average Playtime by Genre]
+   <img width="1000" height="500" alt="avg_playtime_by_genre" src="https://github.com/user-attachments/assets/20ce5564-0c23-4812-a87d-a452e15aafab" />
 
-3. **Purchases by country**
-   ![Purchases by Country](output/purchases_by_country.png)
+ **Purchases by country**
+   ![Purchases by Country]
+   <img width="700" height="700" alt="purchases_by_country" src="https://github.com/user-attachments/assets/460b7bac-8c22-4d40-beee-4da6da284597" />
 
-4. **Top 10 games by purchases**
-   ![Top 10 Games](output/top10_games.png)
+ **Top 10 games by purchases**
+   ![Top 10 Games]
+   <img width="1000" height="500" alt="top10_games" src="https://github.com/user-attachments/assets/2da9413b-2b89-44fb-9588-3936be4202ea" />
 
-5. **Top developers by revenue**
-   ![Top Developers by Revenue](output/top_developers_by_revenue.png)
+ **Top developers by revenue**
+   ![Top Developers by Revenue]
+   <img width="1000" height="500" alt="top_developers_by_revenue" src="https://github.com/user-attachments/assets/9c864ce7-0329-4751-82b9-7630259c789d" />
 
-6. **Daily purchases in last 30 days**
-   ![Daily Purchases 30 Days](output/daily_purchases_30days.png)
+ **Daily purchases in last 30 days**
+   ![Daily Purchases 30 Days]
+   <img width="1000" height="500" alt="daily_purchases_30days" src="https://github.com/user-attachments/assets/a861aef9-405e-4bcc-99b4-9be1d786d9b0" />
 
 Additionally, all results are exported to:
 
